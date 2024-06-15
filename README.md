@@ -60,14 +60,14 @@
 <h3 align="left">Interest:</h3>
 <h4 align="left">Sports:</h4>
 <p align="left">
-  <a href="" target="_blank" rel="noreferrer">I have been playing soccer since I was 12 years old and I also attend the gym</a>
+  <p>I have been playing soccer since I was 12 years old and I also attend the gym</p>
 </p>
 <h4 align="left">Reading:</h4>
 <p align="left">
-  <a href="" target="_blank" rel="noreferrer">in my time I usually read a little, recently I am starting to read mostly in English, to improve my learning</a>
+  <p>in my time I usually read a little, recently I am starting to read mostly in English, to improve my learning</p>
 </p>
 <h4 align="left">Others:</h4>
 <p align="left">
-  <a href="" target="_blank" rel="noreferrer"> Gaming and LiveStream on twitch: twitch.tv/osvagfx </a>
+  <p> Gaming and LiveStream on twitch: twitch.tv/osvagfx </p>
 </p>
 

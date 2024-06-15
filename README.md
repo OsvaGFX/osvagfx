@@ -6,7 +6,7 @@
 
 - 📫 How to contact me **oswaldohdzc.02@gmail.com**
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages used:</h3>
 
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<h3 align="left">and Tools:</h3>
+<h3 align="left">Tools used:</h3>
 <p align="left">
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/OIP.80jUDI1g2d0cjvnGVLAnBQHaIi?rs=1&pid=ImgDetMain" alt="cplusplus" width="40" height="40"/>

@@ -2,8 +2,6 @@
 <h3 align="center">A student with passion for web development, learning new technologies and a lot of creativity.</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.uMWLkplpgtyozjN1uf3T-QAAAA?rs=1&pid=ImgDetMain">
 
-- 🔭 I’m currently working on
-
 - 📫 How to contact me **oswaldohdzc.02@gmail.com**
 
 <h3 align="left">Languages used:</h3>
